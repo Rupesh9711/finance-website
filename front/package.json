@@ -1,11 +1,16 @@
 {
-  "name": "my-app",
-  "version": "0.0.1",
+  "name": "front",
+  "version": "1.0.0",
+  "description": "React + Vite frontend for finance project",
+  "main": "index.jsx",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
+  "keywords": [],
+  "author": "Rupesh Yadav",
+  "license": "ISC",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
